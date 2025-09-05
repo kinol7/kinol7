@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kinol7
+- 👋 Hi, I’m @kenz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on idk
